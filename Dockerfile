@@ -1,5 +1,6 @@
 FROM jeanblanchard/java:8
 MAINTAINER Jean Blanchard <jean@blanchard.io>
+MAINTAINER Harun Esur <harun.esur@sceptive.com>
 
 # Expose web port
 EXPOSE 8080
